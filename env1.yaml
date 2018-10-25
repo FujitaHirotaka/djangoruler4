@@ -1,0 +1,31 @@
+name: env_standard
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - django-crispy-forms=1.7.0=py_1
+  - jinja2=2.10=py_1
+  - markupsafe=1.0=py37hfa6e2cd_1
+  - astroid=2.0.4=py37_0
+  - certifi=2018.10.15=py37_0
+  - colorama=0.3.9=py37_0
+  - django=2.1.1=py37_0
+  - isort=4.3.4=py37_0
+  - lazy-object-proxy=1.3.1=py37hfa6e2cd_2
+  - mccabe=0.6.1=py37_1
+  - pip=10.0.1=py37_0
+  - pylint=2.1.1=py37_0
+  - python=3.7.0=hea74fb7_0
+  - pytz=2018.5=py37_0
+  - setuptools=40.2.0=py37_0
+  - six=1.11.0=py37_1
+  - vc=14=h0510ff6_3
+  - vs2015_runtime=14.0.25123=3
+  - wheel=0.31.1=py37_0
+  - wincertstore=0.2=py37_0
+  - wrapt=1.10.11=py37hfa6e2cd_2
+  - pip:
+    - selenium==3.14.0
+    - urllib3==1.23
+prefix: C:\Users\sakodaken\AppData\Local\conda\conda\envs\env_standard
+
